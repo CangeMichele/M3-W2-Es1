@@ -1,0 +1,68 @@
+body {
+    background-color: rgba(166, 255, 0, 0.394);
+    margin-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*navbar*/
+ul.navbar-nav{
+    padding-right: 20px;
+}
+
+.nav-item {
+    width: max-content;
+}
+
+
+/*almbums*/
+
+.albums_container .card-body{
+    min-height: 315px;
+
+}
+
+.card-header{
+    height:60px;
+}
+
+.bold-album-info {
+    font-weight: bold;
+
+}
+
+.album-info {
+    font-size: small;
+}
+
+/*top album*/
+.container-top_album{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.container-top_album .card-body{
+padding-top: 0;
+}
+
+.container-top_album .card-text{
+    font-size: small;
+}
+
+.container-top_album .card{
+    padding-top: 12px;
+}
+
+
+.container-top_album img{
+    padding-left: 28px;
+}
+
+
+.container-top_album .col{
+    padding: 8px 16px;
+}
+
+.container-top_album h5{
+font-weight: bold;
+margin-top: 20px;
+}
